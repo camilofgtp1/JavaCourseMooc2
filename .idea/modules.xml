@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/week9-week9_18.Moving/week9-week9_18.Moving.iml" filepath="$PROJECT_DIR$/week9-week9_18.Moving/week9-week9_18.Moving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week9-week9_19.MethodArgumentValidation/week9-week9_19.MethodArgumentValidation.iml" filepath="$PROJECT_DIR$/week9-week9_19.MethodArgumentValidation/week9-week9_19.MethodArgumentValidation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week9-week9_20.SensorsAndTemperatureMeasurement/week9-week9_20.SensorsAndTemperatureMeasurement.iml" filepath="$PROJECT_DIR$/week9-week9_20.SensorsAndTemperatureMeasurement/week9-week9_20.SensorsAndTemperatureMeasurement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week9-week9_21.Printer/week9-week9_21.Printer.iml" filepath="$PROJECT_DIR$/week9-week9_21.Printer/week9-week9_21.Printer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week9-week9_22.FileAnalysis/week9-week9_22.FileAnalysis.iml" filepath="$PROJECT_DIR$/week9-week9_22.FileAnalysis/week9-week9_22.FileAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week9-week9_23.WordInspection/week9-week9_23.WordInspection.iml" filepath="$PROJECT_DIR$/week9-week9_23.WordInspection/week9-week9_23.WordInspection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week9-week9_24.MultipleEntryDictionary/week9-week9_24.MultipleEntryDictionary.iml" filepath="$PROJECT_DIR$/week9-week9_24.MultipleEntryDictionary/week9-week9_24.MultipleEntryDictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week9-week9_25.DuplicateRemover/week9-week9_25.DuplicateRemover.iml" filepath="$PROJECT_DIR$/week9-week9_25.DuplicateRemover/week9-week9_25.DuplicateRemover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week9-week9_26.PhoneSearch/week9-week9_26.PhoneSearch.iml" filepath="$PROJECT_DIR$/week9-week9_26.PhoneSearch/week9-week9_26.PhoneSearch.iml" />
+    </modules>
+  </component>
+</project>
