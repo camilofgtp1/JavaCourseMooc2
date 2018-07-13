@@ -1,7 +1,8 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="week9-week9_26.PhoneSearch" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="moving.Main" />
-    <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    <module name="week9-week9_26.PhoneSearch" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     <method />
   </configuration>
 </component>

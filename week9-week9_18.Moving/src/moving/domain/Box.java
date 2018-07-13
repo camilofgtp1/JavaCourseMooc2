@@ -6,49 +6,61 @@
 package moving.domain;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 /**
- *
  * @author camilo
  */
 public class Box implements Thing {
 
     private int maximumCapacity;
-    private ArrayList<Thing> contents;
-
+    private List<Thing> contentsList;
 
     public Box(int maximumCapacity) {
         this.maximumCapacity = maximumCapacity;
-        contents = new ArrayList<Thing>();
-
+        contentsList= new ArrayList<Thing>();
 
     }
 
 
-    //things have to be added to the list
-    public boolean addThing(Thing t){
+    //adds thing to list if box volume is enough, else returns false
+    public boolean addThing(Thing t) {
 
-        if (this.getVolume()>0){
-            System.out.println("added");
-            contents.add(t);
-            maximumCapacity-=t.getVolume();
-            return true;
-        } return false;
+
+        if((maximumCapacity-this.getVolume())<t.getVolume()){
+            return false;
+        } else {
+            //boxContents.put(t.getVolume(), t.toString());
+            contentsList.add(t);
+
+        }
+        return true;
+
+
     }
 
     //should return the current volume of all items NOT size of arraylist
     @Override
     public int getVolume() {
-        int vol =0;
 
-        for (Thing t: contents){
 
-            vol+=t.getVolume();
+        int vol = 0;
+        for (Thing t: contentsList) {
 
+            vol += t.getVolume();
         }
 
         return vol;
 
+
     }
+
+    /*public void getContents() {
+
+        for (String value : boxContents.values()) {
+            System.out.println(value);
+
+        }
+    }*/
 }

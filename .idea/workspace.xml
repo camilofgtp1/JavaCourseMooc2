@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ea86fe6-0184-4165-bba4-6e3151bec081" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9-week9_18.Moving/.idea/runConfigurations/week9_week9_18_Moving.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9-week9_18.Moving/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/week9_week9_26_PhoneSearch.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/week9_week9_26_PhoneSearch.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week9-week9_18.Moving/src/moving/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week9-week9_18.Moving/src/moving/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week9-week9_18.Moving/src/moving/domain/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/week9-week9_18.Moving/src/moving/domain/Box.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +20,7 @@
       <file leaf-file-name="Item.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/src/moving/domain/Item.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="630">
               <caret line="42" selection-start-line="42" selection-end-line="42" />
               <folding>
                 <element signature="e#0#758#0" expanded="true" />
@@ -37,7 +38,7 @@
       <file leaf-file-name="Thing.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/src/moving/domain/Thing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="90">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="e#0#290#0" expanded="true" />
@@ -49,11 +50,8 @@
       <file leaf-file-name="Box.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/src/moving/domain/Box.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="372">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
             </state>
           </provider>
         </entry>
@@ -61,8 +59,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/src/moving/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="300">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,8 +102,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,11 +114,26 @@
               <item name="week9-week9_18" type="9c53a853:ProjectViewModuleGroupNode" />
               <item name="week9-week9_18.Moving" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mooc-2013-OOProgrammingWithJava-PART2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week9-week9_18" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="week9-week9_18.Moving" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mooc-2013-OOProgrammingWithJava-PART2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week9-week9_18" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="week9-week9_18.Moving" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="moving" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,6 +155,40 @@
   <component name="RunManager" selected="Application.week9-week9_26.PhoneSearch">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="All in week9-week9_18.Moving (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week9-week9_18.Moving" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="All in week9-week9_18.Moving (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week9-week9_18.Moving" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="All in week9-week9_18.Moving" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="week9-week9_18.Moving" />
@@ -203,9 +248,13 @@
     <list>
       <item itemvalue="Application.week9-week9_26.PhoneSearch" />
       <item itemvalue="JUnit.All in week9-week9_18.Moving" />
+      <item itemvalue="JUnit.All in week9-week9_18.Moving (1)" />
+      <item itemvalue="JUnit.All in week9-week9_18.Moving (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in week9-week9_18.Moving (2)" />
+        <item itemvalue="JUnit.All in week9-week9_18.Moving (1)" />
         <item itemvalue="JUnit.All in week9-week9_18.Moving" />
       </list>
     </recent_temporary>
@@ -216,6 +265,12 @@
   <component name="TestHistory">
     <history-entry file="All_in_week9-week9_18_Moving - 2018.07.06 at 21h 49m 39s.xml">
       <configuration name="All in week9-week9_18.Moving" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_week9-week9_18_Moving_(1) - 2018.07.12 at 15h 07m 21s.xml">
+      <configuration name="All in week9-week9_18.Moving (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_week9-week9_18_Moving_(2) - 2018.07.12 at 15h 14m 10s.xml">
+      <configuration name="All in week9-week9_18.Moving (2)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -232,31 +287,32 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49930555" weight="0.31965175" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49930555" weight="0.329602" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.31965175" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50143063" side_tool="true" weight="0.3290653" />
       <window_info anchor="bottom" id="TMC Test Results" order="7" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.329602" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.3290653" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3290653" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49875623" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49875623" visible="true" weight="0.25751072" />
       <window_info anchor="right" id="TMC Project List" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" sideWeight="0.50124377" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39948782" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49930555" weight="0.329602" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -264,7 +320,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -298,35 +354,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="53" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/src/moving/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="270">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/build.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/nbproject/project.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-379" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/src/moving/domain/Item.java">
@@ -359,10 +397,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/src/moving/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/build.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/nbproject/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-379" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/test/MovingTest.java">
@@ -372,10 +432,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/src/moving/domain/Thing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/src/moving/domain/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#0#758#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/src/moving/domain/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/week9-week9_18.Moving/src/moving/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="300">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
